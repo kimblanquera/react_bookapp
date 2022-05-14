@@ -1,0 +1,8 @@
+.Drawer {
+    width: 100%;
+}
+
+.DrawerPaper {
+    width: 'calc(100%/4)' !important;
+    outline: 1px solid red;
+}
